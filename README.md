@@ -4,7 +4,7 @@ This is a project that I created while trying to learn more about Rust as a prog
 
 Here is a link to a video of me explaining the code as well as the game itself.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/4wElM3Heea8)
 
 # Development Environment
 
